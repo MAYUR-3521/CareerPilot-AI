@@ -1936,4 +1936,4 @@ At the end, provide:
 
 Prioritize correctness, security, maintainability, and demonstrable AI engineering depth over superficial feature count.
 
-Build this like a serious open-source AI engineering project that I can put on GitHub and demonstrate during an AI Developer interview.
+Build this like a serious open-source AI engineering project that I can put on GitHub and demonstrate during an AI Developer interview...
